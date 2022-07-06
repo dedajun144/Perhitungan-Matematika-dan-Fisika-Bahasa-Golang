@@ -1,0 +1,6 @@
+Untuk menjalankan aplikasi langusung saja ketik sbb:
+go run rumus.go
+
+atau 
+
+go run namafile
